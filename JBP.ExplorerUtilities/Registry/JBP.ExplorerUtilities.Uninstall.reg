@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\Shell\Create Folder]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\Shell\Create Folder]
+
+[-HKEY_CLASSES_ROOT\*\Shell\Copy File Name]
+
+[-HKEY_CLASSES_ROOT\*\Shell\Copy File Path]
+
+[-HKEY_CLASSES_ROOT\*\Shell\Copy File Path and Name]
+
+[-HKEY_CLASSES_ROOT\Directory\Shell\Copy Folder Path]

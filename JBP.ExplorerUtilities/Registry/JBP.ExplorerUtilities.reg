@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Shell\Create Folder\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"createfolder\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\Shell\Create Folder\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"createfolder\""
+
+[HKEY_CLASSES_ROOT\*\Shell\Copy File Name\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"copyfilepath\" \"%1\""
+
+[HKEY_CLASSES_ROOT\*\Shell\Copy File Path\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"copyfolderpath\" \"%1\""
+
+[HKEY_CLASSES_ROOT\*\Shell\Copy File Path and Name\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"copyfullpath\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Shell\Copy Folder Path\Command]
+@="\"C:\\My Apps\\JBP.ExplorerUtilities\\JBP.ExplorerUtilities.exe\" \"copyfullpath\" \"%1\""
