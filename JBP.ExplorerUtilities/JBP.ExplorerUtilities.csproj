@@ -73,6 +73,7 @@
     <Content Include="Registry\JBP.ExplorerUtilities.Uninstall.reg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="JBP.ExplorerUtilities.licenseheader" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
