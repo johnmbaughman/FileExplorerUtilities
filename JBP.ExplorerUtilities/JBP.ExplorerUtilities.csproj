@@ -67,6 +67,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Content Include="LICENSE.txt" />
     <Content Include="Registry\JBP.ExplorerUtilities.reg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
