@@ -1,0 +1,10 @@
+JBP.ExplorerUtilities is a collection of utilities for the Windows Explorer interface.
+
+The utilities included are as follows:
+
+Copy file name
+Copy file name with full path
+Copy folder path
+Create folder, including a complete tree of folders.
+
+And more to come as I find a need for something.
